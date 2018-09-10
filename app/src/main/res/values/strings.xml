@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registro2datos</string>
+    <string name="ip">http://192.168.0.7/pruebas/registro.php?"</string>
+    <string name="ipTraerMunicipio">http://www.contaniif.club/movil/traerMunicipio.php?pas=</string>
+    <string name="ipRegistro1">http://192.168.0.7/pruebas/registroImagen.php?"</string>
+    <string name="ipRegistro2">http://www.contaniif.club/movil/registro.php?</string>
+</resources>
